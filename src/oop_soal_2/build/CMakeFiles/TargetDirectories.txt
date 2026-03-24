@@ -1,0 +1,3 @@
+C:/Agatha/Semester 4/Sekuro/SEKURO_TUGAS_1_Agatha-Tatianingseto_PROGRAMMING/src/oop_soal_2/build/CMakeFiles/soal_2_cmake.dir
+C:/Agatha/Semester 4/Sekuro/SEKURO_TUGAS_1_Agatha-Tatianingseto_PROGRAMMING/src/oop_soal_2/build/CMakeFiles/edit_cache.dir
+C:/Agatha/Semester 4/Sekuro/SEKURO_TUGAS_1_Agatha-Tatianingseto_PROGRAMMING/src/oop_soal_2/build/CMakeFiles/rebuild_cache.dir
