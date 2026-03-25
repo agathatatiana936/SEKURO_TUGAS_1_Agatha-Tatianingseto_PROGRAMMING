@@ -1,4 +1,3 @@
-CMAKE_MINIMUM_REQUIRED_VERSION(3.8)
-project(mcu_controller)
-
+cmake_minimum_required(VERSION 3.10)
+project(robot)
 #[TODO] Implentasikan CMakeList di bawah ini
